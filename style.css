@@ -225,5 +225,6 @@ footer a {
 
   .product-name {
     font-size: 2rem;
+    line-height: 1;
   }
 }
