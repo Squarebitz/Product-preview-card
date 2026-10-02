@@ -67,13 +67,12 @@ main {
   background-position: center;
   background-size: cover;
 
-  background-position-y: -15px;  
   background-repeat: no-repeat;
   width: 100%;
-
   border-top-left-radius: 10px;
+
   border-top-right-radius: 10px;
-  min-height: 450px;
+  min-height: 350px;
 }
 
 .product-info {
@@ -198,6 +197,7 @@ footer a {
 
   .banner {
     width: 50%;
+    height: auto;
     min-height: 100%;
     background: url("images/image-product-desktop.jpg");
 
